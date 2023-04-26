@@ -1,8 +1,8 @@
-<h1>Introduction to Git & Github: Your name here</h1> 
+<h1>Introduction to Git & Github: Chloe Dobson</h1> 
 
 <p>This candidate repository has been set up to store the assessment materials for completing the IGG course.</p> 
 
-<p>Candidate Name: Your name here </p>
+<p>Candidate Name: Chloe Dobson </p>
 
 <p>Course starting Date: The date you start this course Course Layout </p>
 
